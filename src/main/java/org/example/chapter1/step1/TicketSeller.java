@@ -1,4 +1,4 @@
-package org.example.Chapter1.Step1;
+package org.example.chapter1.step1;
 
 public class TicketSeller {
     private TicketOffice ticketOffice;

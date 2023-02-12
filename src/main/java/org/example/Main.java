@@ -1,9 +1,6 @@
 package org.example;
 
-import org.example.Chapter1.Step2.*;
-
-import java.util.ArrayList;
-import java.util.List;
+import org.example.chapter1.step3.*;
 
 public class Main {
     public static void main(String[] args) {

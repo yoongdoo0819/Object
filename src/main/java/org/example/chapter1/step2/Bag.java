@@ -1,4 +1,4 @@
-package org.example.Chapter1.Step1;
+package org.example.chapter1.step2;
 
 public class Bag {
     private Long amount;

@@ -1,4 +1,4 @@
-package org.example.Chapter1.Step2;
+package org.example.chapter1.step3;
 
 public class Theater {
     private TicketSeller ticketSeller;
